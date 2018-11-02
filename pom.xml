@@ -29,12 +29,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://nexusserver.com:8081/repository/Test1_Release/</url>
+            <url>http://nexusserver.com:8081/repository/sunilRelease/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://nexusserver.com:8081/repository/Test1_Snap/</url>
+            <url>http://nexusserver.com:8081/repository/sunilSnap/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
